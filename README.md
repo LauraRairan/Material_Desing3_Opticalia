@@ -1,5 +1,7 @@
 # Opticalia Veravisión - Migración a Material Design 3
 
+## Autores: Laura Rairan - Maria Rodriguez
+
 ## Descripción del proyecto
 
 Este proyecto corresponde a la migración de la interfaz web de **Opticalia Veravisión** a un front-end funcional utilizando el sistema de diseño **Material Design 3** y la librería oficial **@material/web**.
